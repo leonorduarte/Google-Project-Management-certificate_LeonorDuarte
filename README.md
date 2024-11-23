@@ -57,7 +57,7 @@ With the foundation set, I moved into the planning phase, which was critical to 
 3. Defining Clear Goals:  
    - Created SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals to ensure clarity and focus.  
 
-**Deliverables**: [Project Plan], including tasks, milestones, and timelines.  
+**Deliverables**: [Project Plan](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Project%20Plan_LD.xlsx), including tasks, milestones, and timelines.  
 
 ### Project Execution  
 
