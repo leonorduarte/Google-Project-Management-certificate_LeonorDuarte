@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - **Course 3:** Project Planning: Putting It All Together
 - **Course 4:** Project Execution: Running the Project
 - **Course 5:** Agile Project Management
-- **Course 5:** Capstone: Applying Project Management in the Real World
+- **Course 6:** Capstone: Applying Project Management in the Real World
 
 Throughout the Google Project Management Professional Certification was a transformative experience that sharpened my project management skills and empowered me to apply these competencies in real-world scenarios. For my capstone project, I stepped into the role of Peta Tsosie, Sauce & Spoon's newly hired Project Manager. 
 
