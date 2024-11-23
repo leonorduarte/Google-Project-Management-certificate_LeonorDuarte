@@ -16,6 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - **Course 5:** Capstone: Applying Project Management in the Real World
 
 Throughout the Google Project Management Professional Certification was a transformative experience that sharpened my project management skills and empowered me to apply these competencies in real-world scenarios. For my capstone project, I stepped into the role of Peta Tsosie, Sauce & Spoon's newly hired Project Manager. 
+
 ### My task? 
 To lead the pilot launch of tabletop menu tablets at two restaurant locations—a project aimed at streamlining operations and elevating the guest experience. Let me take you through the journey of this impactful project.  
 
@@ -41,7 +42,7 @@ To accomplish this, I:
 
 One key challenge arose early: Omar, the company owner, wanted to expand the tablet rollout to the entire dining area instead of limiting it to the bar, as initially planned. While this expansion was beyond the original scope, I handled the situation by gathering feedback from team members like Gilly, Alex, and Larissa to build consensus. Together, we aligned on keeping the pilot focused, ensuring a manageable and efficient rollout.  
 
-**Project Charter** – outlining the scope, objectives, and timeline of the project.  
+- **[Project Charter](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Project%20Charter.pdf)** – outlining the scope, objectives, and timeline of the project.  
 
 ### Project Planning  
 With the foundation set, I moved into the planning phase, which was critical to the project’s success. I focused on:  
@@ -56,7 +57,7 @@ With the foundation set, I moved into the planning phase, which was critical to 
 3. Defining Clear Goals:  
    - Created SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals to ensure clarity and focus.  
 
-**Deliverables**: Project Plan, including tasks, milestones, and timelines.  
+**Deliverables**: [Project Plan], including tasks, milestones, and timelines.  
 
 ### Project Execution  
 
@@ -67,8 +68,8 @@ Execution was all about keeping the project on track while maintaining high stan
 Once the tablet pilot launched, I implemented evaluation metrics to measure success. This included creating and distributing customer satisfaction surveys at the two test locations. Analysing the feedback helped identify areas of success and improvement.  
 
 **Key deliverables**:  
-- Quality Standards Document  
-- Survey Questions and Survey Results  
+- [Quality Standards Document](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Project%20Plan_LD.xlsx)  
+- [Survey Questions and Survey Results](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Project%20Plan_LD.xlsx)
 
 
 ### Project Closure  
@@ -77,18 +78,20 @@ With the pilot completed, I turned my attention to closing the project effective
 - Compiled an Impact Report, summarizing the outcomes, lessons learned, and recommendations for scaling the project to additional locations.  
 - Facilitated a retrospective review with stakeholders and team members, where we discussed successes, challenges, and next steps for future rollouts.  
 
-The insights from this phase proved invaluable in refining strategies for the full-scale implementation of the tablet system.  
+The insights from this phase proved invaluable in refining strategies for the full-scale implementation of the tablet system. 
+
+Check [Project Closure](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Sauce%20%26%20Spoon%20Closeout%20Report_LD.pdf) 
 
 ### Project Artifacts  
 
 Throughout the project, I created a comprehensive portfolio of artifacts that demonstrated my skills in planning, execution, and communication. Key documents included:  
-- Project Charter  
-- Stakeholder Analysis  
-- Project Plan  
-- Quality Standards  
-- Customer Survey Results  
-- Impact Report  
-- Retrospective Review  
+- [Project Charter](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Project%20Charter.pdf) 
+- [Stakeholder Analysis](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Stakeholder%20Analysis.pdf)  
+- [Project Plan](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Project%20Plan_LD.xlsx)  
+- [Quality Standards](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Project%20Plan_LD.xlsx)  
+- [Customer Survey Results](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Sauce%20_%20Spoon%20Test%20Launch%20Findings_LD.pdf)
+- [Impact Report](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity-Template_-Impact-Report.pdf)
+- [Retrospective Review](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/Activity%20Template_%20Retrospective%20Review_LD.pdf)  
 
 These deliverables showcased my ability to manage complex projects from start to finish while keeping stakeholders aligned and informed.  
 
@@ -109,4 +112,4 @@ Through this project, I honed several essential project management skills, inclu
 
 Completing the Google Project Management Certification and leading this capstone project was a deeply rewarding experience. I gained hands-on expertise in managing a high-impact project, navigating challenges, and delivering results that aligned with business objectives. This journey strengthened my confidence and skill set as a project manager, preparing me to excel in future opportunities.  
 
-
+Look at my [Report](https://github.com/leonorduarte/Google-Project-Management-certification_Leonor-Duarte/blob/main/case%20study%20report_%20Sauce%26Spoon_LD.pdf) where i explain step by step how i did this project.
