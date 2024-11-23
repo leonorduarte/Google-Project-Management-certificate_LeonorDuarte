@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/20b7c845-b9b6-4a4a-ab9f-42b27301e063)# Google-Project-Management-certification_Leonor-Duarte
+# Google-Project-Management-certification_Leonor-Duarte
 # Leonor Duarte - Portfolio
 ## About
 Hi, I’m Leonor! I have a strong academic foundation in Management and Marketing Intelligence and am currently pursuing a Master’s in Data-Driven Marketing. My passion lies in combining data analytics and strategic insights to solve real-world problems. I am excited to bring my technical and analytical skills to the fields of data science and project management as an entry-level data specialist and project leader.
