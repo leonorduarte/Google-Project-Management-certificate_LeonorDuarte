@@ -101,8 +101,8 @@ Through this project, I honed several essential project management skills, inclu
 - SMART Goal Setting: Ensuring clear, actionable objectives.  
 - Time Management: Developing accurate time estimates for tasks and milestones.  
 - Quality Assurance: Establishing and adhering to quality standards.  
-- Data Analysis & Reporting: Using survey data to evaluate project success and guide decision-making.  
--Retrospective Facilitation: Encouraging productive discussions to drive continuous improvement.  
+- Data Analysis & Reporting: Using survey data to evaluate project success and guide decision-making.
+- Retrospective Facilitation: Encouraging productive discussions to drive continuous improvement.  
 
 
 ### Personal Reflections  
